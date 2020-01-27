@@ -71,7 +71,8 @@ public class TextToSpeech {
 
 
 
-            AudioSystem.write(audio, AudioFileFormat.Type.WAVE, new File("test.wav"));
+            AudioSystem.write(audio, AudioFileFormat.Type.WAVE, new File("test.mp3"));
+
 
 
             tts = new AudioPlayer();
