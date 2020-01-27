@@ -1,11 +1,7 @@
 package crbn.tts;
 
 import marytts.exceptions.SynthesisException;
-import marytts.modules.synthesis.Voice;
 
-import javax.sound.sampled.AudioInputStream;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.IOException;
 
 /**
